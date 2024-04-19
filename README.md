@@ -15,6 +15,3 @@ CuteCat is a simple game developed in C# using Unity game engine. In this game, 
 
 # Contributing:
 Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
-
-# License:
-This project is licensed under the MIT License.
