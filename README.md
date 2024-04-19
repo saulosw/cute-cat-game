@@ -11,9 +11,7 @@ CuteCat is a simple game developed in C# using Unity game engine. In this game, 
 # How to Play:
 - Download or clone this repository.
 - Open the project in Unity.
-- Navigate to the main scene of the game.
-- Play the game by interacting with the various buttons to maintain the cat's status bars.
-- Enjoy the option to make the cat dance when needed for extra fun!
+- Play and enjoy!
 
 # Contributing:
 Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
