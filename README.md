@@ -1,5 +1,9 @@
-# CuteCat Game
+# CuteCat Game😺
 CuteCat is a simple game developed in C# using Unity game engine. In this game, you take care of a virtual cat by managing its status bars for hunger, hygiene, sleep, and happiness. The goal is to keep the cat alive and happy by clicking on various buttons to maintain its positive status bars. Additionally, you have the option to make the cat dance for extra fun! 😹
+
+
+
+
 
 # Features:
 
